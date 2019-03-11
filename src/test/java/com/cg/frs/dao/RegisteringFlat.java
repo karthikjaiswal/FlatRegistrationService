@@ -29,7 +29,7 @@ class RegisteringFlat {
 			flat.setRent_amount(2000);
 			flat.setDeposit_amount(10000);
 			flat=flatdao.registerFlat(flat);
-			assertEquals(1008, flat.getFlat_reg_no());
+			assertEquals(1011, flat.getFlat_reg_no());
 	}
 	@Test 
 	void testGetAllOwnerIds()

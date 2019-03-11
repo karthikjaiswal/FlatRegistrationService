@@ -116,31 +116,3 @@ public class Client
 
 
 
-
-
-//if(flatRegistrationDto.getFlat_reg_no()!=0)
-//	
-//else
-//{
-//	sc.close();
-//	try {
-//		throw new RegistrationFailException();
-//	} catch (RegistrationFailException e) {
-//		// TODO Auto-generated catch block
-//		e.printStackTrace();
-//	}
-//}
-
-
-
-
-
-
-
-
-
-//public static int choice()
-//{
-//	System.out.println("====Menu==== \n1. Registration \n2. Exit");
-//	return sc.nextInt();
-//}
